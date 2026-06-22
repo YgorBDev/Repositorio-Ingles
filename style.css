@@ -10,6 +10,15 @@
     --red: #ef4444;
 }
 
+.logo img {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #fff;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
 * {
     margin: 0;
     padding: 0;
